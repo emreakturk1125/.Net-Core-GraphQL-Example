@@ -6,7 +6,7 @@
 
 # Required Installations
 
-İf you want to use for own project, you should install the following libraries
+# İf you want to use for own project, you should install the following libraries
 
 -> dotnet add package HotChocolate.AspNetCore
 #
