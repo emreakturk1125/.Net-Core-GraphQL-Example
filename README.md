@@ -9,13 +9,13 @@
   İf you want to use for own project, you should install the following libraries
 
 -> dotnet add package HotChocolate.AspNetCore
-#
+<br>
 -> dotnet add package HotChocolate.Data.EntityFramework
-#
+<br>
 -> dotnet add package Microsoft.EntityframeworkCore.Design
-#
+<br>
 -> dotnet add package Microsoft.EntityframeworkCore.SqlServer
-#
+<br>
 -> dotnet add package GraphQL.Server.Ui.Voyager 
 
 
